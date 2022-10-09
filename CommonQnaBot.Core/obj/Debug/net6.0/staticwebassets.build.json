@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HBZ8o2P/NKKlFx/UnP0vXHLu+4ACCzVrYBI3WNYd9JU=",
+  "Hash": "XuH8hlwWbF6OnvWW42gLFhlQqwBI0PtGsUs/lprliPQ=",
   "Source": "CommonQnaBot.Core",
   "BasePath": "_content/CommonQnaBot.Core",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CommonQnaBot.Core/wwwroot",
       "Source": "CommonQnaBot.Core",
-      "ContentRoot": "/Users/sakai.ryota/Projects/GitHub/CommonQnaBot/CommonQnaBot.Core/wwwroot/",
+      "ContentRoot": "/Users/sakai.ryota/Projects/CommonQnaBot/CommonQnaBot.Core/wwwroot/",
       "BasePath": "_content/CommonQnaBot.Core",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/sakai.ryota/Projects/GitHub/CommonQnaBot/CommonQnaBot.Core/wwwroot/default.html",
+      "Identity": "/Users/sakai.ryota/Projects/CommonQnaBot/CommonQnaBot.Core/wwwroot/default.html",
       "SourceId": "CommonQnaBot.Core",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/sakai.ryota/Projects/GitHub/CommonQnaBot/CommonQnaBot.Core/wwwroot/",
+      "ContentRoot": "/Users/sakai.ryota/Projects/CommonQnaBot/CommonQnaBot.Core/wwwroot/",
       "BasePath": "_content/CommonQnaBot.Core",
       "RelativePath": "default.html",
       "AssetKind": "All",
