@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "HBZ8o2P/NKKlFx/UnP0vXHLu+4ACCzVrYBI3WNYd9JU=",
+  "Source": "CommonQnaBot.Core",
+  "BasePath": "_content/CommonQnaBot.Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CommonQnaBot.Core/wwwroot",
+      "Source": "CommonQnaBot.Core",
+      "ContentRoot": "/Users/sakai.ryota/Projects/GitHub/CommonQnaBot/CommonQnaBot.Core/wwwroot/",
+      "BasePath": "_content/CommonQnaBot.Core",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/sakai.ryota/Projects/GitHub/CommonQnaBot/CommonQnaBot.Core/wwwroot/default.html",
+      "SourceId": "CommonQnaBot.Core",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sakai.ryota/Projects/GitHub/CommonQnaBot/CommonQnaBot.Core/wwwroot/",
+      "BasePath": "_content/CommonQnaBot.Core",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/default.html"
+    }
+  ]
+}
